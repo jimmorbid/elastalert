@@ -8,7 +8,7 @@ Requirements
 
 - Elasticsearch 1.* or 2.*
 - ISO8601 or Unix timestamped data
-- Python 2.6 or 2.7
+- Python 2.6 or 2.7 (with python-dev tools install)
 - pip, see requirements.txt
 
 Downloading and Configuring
